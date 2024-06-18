@@ -1,0 +1,23 @@
+{ "urls": [{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/小米/api.json", "name": "小米" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/PG/api.json", "name": "PG" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/香雅情XYQ/api.json", "name": "香雅情XYQ" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/南风/api.json", "name": "南风" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/骚零/api.json", "name": "骚零" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/OK/api.json", "name": "OK" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/白嫖/api.json", "name": "白嫖" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/天天开心/api.json", "name": "天天开心" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20240529/动漫频道/api.json", "name": "动漫频道" }]}
