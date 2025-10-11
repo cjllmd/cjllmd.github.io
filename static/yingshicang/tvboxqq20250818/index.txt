@@ -1,0 +1,23 @@
+{ "urls": [{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/小米/api.json", "name": "小米" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/王二小/api.json", "name": "王二小" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/潇洒/api.json", "name": "潇洒" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/摸鱼儿/api.json", "name": "摸鱼儿" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/小虎斑/api.json", "name": "小虎斑" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/欧歌/api.json", "name": "欧歌" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/南风/api.json", "name": "南风" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/香雅情/api.json", "name": "香雅情" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "https://cjllmd.github.io/static/yingshicang/tvboxqq20250818/戏曲音乐/api.json", "name": "戏曲音乐" }]}
